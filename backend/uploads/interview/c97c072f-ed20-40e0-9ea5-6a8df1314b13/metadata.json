@@ -1,0 +1,47 @@
+{
+  "sessionId": "c97c072f-ed20-40e0-9ea5-6a8df1314b13",
+  "createdAt": "2026-05-26T21:58:17.196073Z",
+  "status": "in_progress",
+  "phase": "playing_question_audio",
+  "totalQuestions": 2,
+  "questions": [
+    {
+      "index": 1,
+      "questionText": "Can you walk me through how you would use Pandas to clean and prepare a dataset for a machine learning model, focusing on handling missing values and outliers?",
+      "audioPath": "uploads\\interview\\c97c072f-ed20-40e0-9ea5-6a8df1314b13\\questions\\question_1.mp3",
+      "audioUrl": "/uploads/interview/c97c072f-ed20-40e0-9ea5-6a8df1314b13/questions/question_1.mp3",
+      "source": "ai",
+      "questionId": null,
+      "category": null,
+      "difficulty": null,
+      "expectedAnswerKeywords": [],
+      "required": true
+    },
+    {
+      "index": 2,
+      "questionText": "How would you use Pandas to join two datasets that share a common column, and could you explain a real-world scenario where this might be necessary in a machine learning project?",
+      "audioPath": "uploads\\interview\\c97c072f-ed20-40e0-9ea5-6a8df1314b13\\questions\\question_2.mp3",
+      "audioUrl": "/uploads/interview/c97c072f-ed20-40e0-9ea5-6a8df1314b13/questions/question_2.mp3",
+      "source": "ai",
+      "questionId": null,
+      "category": null,
+      "difficulty": null,
+      "expectedAnswerKeywords": [],
+      "required": true
+    }
+  ],
+  "responses": [],
+  "finalVideo": null,
+  "completedQuestions": 0,
+  "processingComplete": false,
+  "processingStartedAt": null,
+  "processingCompletedAt": null,
+  "analysis": {
+    "status": "not_started"
+  },
+  "durations": {},
+  "language": "en",
+  "speechLocale": "en-US",
+  "questionSource": "ai",
+  "companyInterviewSessionId": null
+}

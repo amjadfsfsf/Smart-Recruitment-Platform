@@ -1,0 +1,1448 @@
+{
+  "sessionId": "c75ea6c7-8a82-40dd-b959-e655b5f8a76e",
+  "createdAt": "2026-05-26T22:20:20.322805Z",
+  "status": "completed",
+  "phase": "completed",
+  "totalQuestions": 2,
+  "questions": [
+    {
+      "index": 1,
+      "questionText": "What is Python used for?",
+      "audioPath": "uploads\\interview\\c75ea6c7-8a82-40dd-b959-e655b5f8a76e\\questions\\question_1.mp3",
+      "audioUrl": "/uploads/interview/c75ea6c7-8a82-40dd-b959-e655b5f8a76e/questions/question_1.mp3",
+      "source": "company",
+      "questionId": 21,
+      "category": "technical",
+      "difficulty": "easy",
+      "expectedAnswerKeywords": [],
+      "required": true
+    },
+    {
+      "index": 2,
+      "questionText": "What is a variable in programming?",
+      "audioPath": "uploads\\interview\\c75ea6c7-8a82-40dd-b959-e655b5f8a76e\\questions\\question_2.mp3",
+      "audioUrl": "/uploads/interview/c75ea6c7-8a82-40dd-b959-e655b5f8a76e/questions/question_2.mp3",
+      "source": "company",
+      "questionId": 22,
+      "category": "behavioral",
+      "difficulty": "medium",
+      "expectedAnswerKeywords": [],
+      "required": true
+    }
+  ],
+  "responses": [
+    {
+      "questionIndex": 1,
+      "questionId": 21,
+      "questionText": "What is Python used for?",
+      "questionCategory": "technical",
+      "questionDifficulty": "easy",
+      "expectedAnswerKeywords": [],
+      "questionAudioPath": "uploads\\interview\\c75ea6c7-8a82-40dd-b959-e655b5f8a76e\\questions\\question_1.mp3",
+      "questionAudioUrl": "/uploads/interview/c75ea6c7-8a82-40dd-b959-e655b5f8a76e/questions/question_1.mp3",
+      "audioStartTime": null,
+      "audioEndTime": null,
+      "thinkingStart": null,
+      "thinkingEnd": null,
+      "actualThinkingDuration": null,
+      "answerStart": null,
+      "answerEnd": null,
+      "actualAnswerDuration": null,
+      "videoPath": "uploads\\interview\\c75ea6c7-8a82-40dd-b959-e655b5f8a76e\\videos\\question_1.mp4",
+      "videoUrl": "/uploads/interview/c75ea6c7-8a82-40dd-b959-e655b5f8a76e/videos/question_1.mp4",
+      "audioPath": "uploads\\interview\\c75ea6c7-8a82-40dd-b959-e655b5f8a76e\\audio\\question_1.wav",
+      "transcript": "Byton is a programming language used to create website developer artificial intelligence system, automate tasks and work with the data analysis and machine learning.",
+      "transcriptionProvider": "azure",
+      "audioScore": {
+        "azure_scores": {
+          "accuracy": 78.0,
+          "fluency": 96.0,
+          "prosody": 75.7,
+          "completeness": 100.0,
+          "confidence_raw": 0.93,
+          "confidence_score": 93.0,
+          "clarity_intelligibility": 82.5,
+          "final_score": 86.56
+        },
+        "speech_rate": {
+          "word_count": 25,
+          "total_words": 25,
+          "speech_duration_seconds": 11.81,
+          "duration_seconds": 11.81,
+          "words_per_minute": 127.01,
+          "label": "normal",
+          "rate_label": "Normal",
+          "score": 100.0
+        },
+        "pause_analysis": {
+          "count": 1,
+          "long_pause_threshold_seconds": 1.5,
+          "long_pause_count": 0,
+          "average_pause_seconds": 0.93,
+          "max_pause_seconds": 0.93,
+          "total_silence_seconds": 0.93,
+          "pause_ratio": 0.0787,
+          "categories": {
+            "short": 0,
+            "medium": 1,
+            "long": 0
+          },
+          "score": 90.0,
+          "pauses": [
+            {
+              "start_seconds": 0.0,
+              "end_seconds": 0.93,
+              "duration_seconds": 0.93,
+              "category": "medium"
+            }
+          ],
+          "debug_log": [
+            "pause #1: 0.000s - 0.930s (0.930s, medium)"
+          ],
+          "timeline": "|||||||\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7"
+        },
+        "filler_words": {
+          "total_count": 1,
+          "per_word": {
+            "uh": 1
+          },
+          "per_phrase": {},
+          "ratio": 0.04,
+          "per_100_words": 4.0,
+          "score": 80.0
+        },
+        "clarity_intelligibility": {
+          "score": 82.5,
+          "based_on": {
+            "accuracy": 78.0,
+            "confidence_raw": 0.93,
+            "confidence_score": 93.0
+          }
+        },
+        "transcript_quality": {
+          "transcript": "UH by Stone is a programming language used to create website developer, artificial intelligence system, automated task and work with data analysis and machine learning.",
+          "character_count": 168,
+          "word_count": 25,
+          "sentence_count": 1,
+          "average_words_per_sentence": 25.0,
+          "lexical_diversity": 0.96,
+          "score": 70.05,
+          "minimum_answer_length_met": true
+        },
+        "interview_target_scores": {
+          "confidence": 86.21,
+          "communication": 86.26,
+          "eye_contact": null,
+          "fluency": 95.5,
+          "answer_quality": 79.03,
+          "overall_audio_readiness": 87.11,
+          "notes": {
+            "eye_contact": "Not available in speech.py. This should come from the video-analysis module.",
+            "answer_quality": "This is a lightweight proxy based on transcript quality and not true semantic relevance to the interview question."
+          }
+        },
+        "utterances": [
+          {
+            "text": "UH by Stone is a programming language used to create website developer, artificial intelligence system, automated task and work with data analysis and machine learning.",
+            "lexical": "uh by stone is a programming language used to create website developer artificial intelligence system automated task and work with data analysis and machine learning",
+            "confidence_raw": 0.92651457,
+            "confidence_score": 92.65,
+            "offset_seconds": 0.86,
+            "duration_seconds": 11.81,
+            "accuracy": 78.0,
+            "fluency": 96.0,
+            "prosody": 75.7,
+            "completeness": 100.0,
+            "words": [
+              {
+                "word": "uh",
+                "offset": 8600000,
+                "duration": 4500000,
+                "offset_seconds": 0.86,
+                "duration_seconds": 0.45
+              },
+              {
+                "word": "by",
+                "offset": 13200000,
+                "duration": 3300000,
+                "offset_seconds": 1.32,
+                "duration_seconds": 0.33
+              },
+              {
+                "word": "stone",
+                "offset": 16600000,
+                "duration": 3100000,
+                "offset_seconds": 1.66,
+                "duration_seconds": 0.31
+              },
+              {
+                "word": "is",
+                "offset": 19800000,
+                "duration": 1300000,
+                "offset_seconds": 1.98,
+                "duration_seconds": 0.13
+              },
+              {
+                "word": "a",
+                "offset": 21200000,
+                "duration": 500000,
+                "offset_seconds": 2.12,
+                "duration_seconds": 0.05
+              },
+              {
+                "word": "programming",
+                "offset": 21800000,
+                "duration": 6100000,
+                "offset_seconds": 2.18,
+                "duration_seconds": 0.61
+              },
+              {
+                "word": "language",
+                "offset": 28000000,
+                "duration": 5800000,
+                "offset_seconds": 2.8,
+                "duration_seconds": 0.58
+              },
+              {
+                "word": "used",
+                "offset": 33900000,
+                "duration": 3600000,
+                "offset_seconds": 3.39,
+                "duration_seconds": 0.36
+              },
+              {
+                "word": "to",
+                "offset": 37600000,
+                "duration": 2900000,
+                "offset_seconds": 3.76,
+                "duration_seconds": 0.29
+              },
+              {
+                "word": "create",
+                "offset": 40600000,
+                "duration": 3900000,
+                "offset_seconds": 4.06,
+                "duration_seconds": 0.39
+              },
+              {
+                "word": "website",
+                "offset": 44600000,
+                "duration": 9900000,
+                "offset_seconds": 4.46,
+                "duration_seconds": 0.99
+              },
+              {
+                "word": "developer",
+                "offset": 56000000,
+                "duration": 6700000,
+                "offset_seconds": 5.6,
+                "duration_seconds": 0.67
+              },
+              {
+                "word": "artificial",
+                "offset": 62800000,
+                "duration": 4500000,
+                "offset_seconds": 6.28,
+                "duration_seconds": 0.45
+              },
+              {
+                "word": "intelligence",
+                "offset": 67400000,
+                "duration": 5500000,
+                "offset_seconds": 6.74,
+                "duration_seconds": 0.55
+              },
+              {
+                "word": "system",
+                "offset": 73000000,
+                "duration": 6900000,
+                "offset_seconds": 7.3,
+                "duration_seconds": 0.69
+              },
+              {
+                "word": "automated",
+                "offset": 82700000,
+                "duration": 6500000,
+                "offset_seconds": 8.27,
+                "duration_seconds": 0.65
+              },
+              {
+                "word": "task",
+                "offset": 89300000,
+                "duration": 5000000,
+                "offset_seconds": 8.93,
+                "duration_seconds": 0.5
+              },
+              {
+                "word": "and",
+                "offset": 94600000,
+                "duration": 3800000,
+                "offset_seconds": 9.46,
+                "duration_seconds": 0.38
+              },
+              {
+                "word": "work",
+                "offset": 98500000,
+                "duration": 4200000,
+                "offset_seconds": 9.85,
+                "duration_seconds": 0.42
+              },
+              {
+                "word": "with",
+                "offset": 102800000,
+                "duration": 5700000,
+                "offset_seconds": 10.28,
+                "duration_seconds": 0.57
+              },
+              {
+                "word": "data",
+                "offset": 108600000,
+                "duration": 2700000,
+                "offset_seconds": 10.86,
+                "duration_seconds": 0.27
+              },
+              {
+                "word": "analysis",
+                "offset": 111400000,
+                "duration": 4500000,
+                "offset_seconds": 11.14,
+                "duration_seconds": 0.45
+              },
+              {
+                "word": "and",
+                "offset": 116000000,
+                "duration": 2000000,
+                "offset_seconds": 11.6,
+                "duration_seconds": 0.2
+              },
+              {
+                "word": "machine",
+                "offset": 118100000,
+                "duration": 3400000,
+                "offset_seconds": 11.81,
+                "duration_seconds": 0.34
+              },
+              {
+                "word": "learning",
+                "offset": 121600000,
+                "duration": 5100000,
+                "offset_seconds": 12.16,
+                "duration_seconds": 0.51
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "All derived scoring outputs are normalized to a 0-100 scale except confidence_raw, which remains the original Azure confidence value (0-1).",
+          "Speech rate, pause analysis, filler-word counts, and transcript-quality metrics are derived from Azure transcription output.",
+          "Pronunciation, fluency, prosody, and completeness come directly from Azure Pronunciation Assessment.",
+          "This file prepares audio-side scoring for a final mock interview report, but eye contact still needs to be supplied by the video-analysis module."
+        ]
+      },
+      "videoScore": {
+        "eye_contact": 92,
+        "head_movement": 96,
+        "facial_expression": "Moderately engaged",
+        "face_presence": 100,
+        "smile_score": "Very subtle smile"
+      },
+      "questionEvaluation": {
+        "score": 40,
+        "raw_response": "40",
+        "feedback": "",
+        "suggestion": ""
+      },
+      "questionScoreRaw": 40,
+      "questionScore": 40,
+      "status": "answered",
+      "analysisStatus": "completed",
+      "analysisError": null,
+      "isLastQuestion": false
+    },
+    {
+      "questionIndex": 2,
+      "questionId": 22,
+      "questionText": "What is a variable in programming?",
+      "questionCategory": "behavioral",
+      "questionDifficulty": "medium",
+      "expectedAnswerKeywords": [],
+      "questionAudioPath": "uploads\\interview\\c75ea6c7-8a82-40dd-b959-e655b5f8a76e\\questions\\question_2.mp3",
+      "questionAudioUrl": "/uploads/interview/c75ea6c7-8a82-40dd-b959-e655b5f8a76e/questions/question_2.mp3",
+      "audioStartTime": null,
+      "audioEndTime": null,
+      "thinkingStart": null,
+      "thinkingEnd": null,
+      "actualThinkingDuration": null,
+      "answerStart": null,
+      "answerEnd": null,
+      "actualAnswerDuration": null,
+      "videoPath": "uploads\\interview\\c75ea6c7-8a82-40dd-b959-e655b5f8a76e\\videos\\question_2.mp4",
+      "videoUrl": "/uploads/interview/c75ea6c7-8a82-40dd-b959-e655b5f8a76e/videos/question_2.mp4",
+      "audioPath": "uploads\\interview\\c75ea6c7-8a82-40dd-b959-e655b5f8a76e\\audio\\question_2.wav",
+      "transcript": "A variable is a name storage location in a program that holds data such as number, text, or the letter value. And can it change the running program execution?",
+      "transcriptionProvider": "azure",
+      "audioScore": {
+        "azure_scores": {
+          "accuracy": 82.0,
+          "fluency": 95.0,
+          "prosody": 78.7,
+          "completeness": 100.0,
+          "confidence_raw": 0.87,
+          "confidence_score": 87.0,
+          "clarity_intelligibility": 83.5,
+          "final_score": 88.01
+        },
+        "speech_rate": {
+          "word_count": 28,
+          "total_words": 28,
+          "speech_duration_seconds": 12.07,
+          "duration_seconds": 12.07,
+          "words_per_minute": 139.19,
+          "label": "normal",
+          "rate_label": "Normal",
+          "score": 100.0
+        },
+        "pause_analysis": {
+          "count": 2,
+          "long_pause_threshold_seconds": 1.5,
+          "long_pause_count": 1,
+          "average_pause_seconds": 1.175,
+          "max_pause_seconds": 1.59,
+          "total_silence_seconds": 2.35,
+          "pause_ratio": 0.1947,
+          "categories": {
+            "short": 0,
+            "medium": 1,
+            "long": 1
+          },
+          "score": 70.0,
+          "pauses": [
+            {
+              "start_seconds": 0.0,
+              "end_seconds": 1.59,
+              "duration_seconds": 1.59,
+              "category": "long"
+            },
+            {
+              "start_seconds": 10.48,
+              "end_seconds": 11.24,
+              "duration_seconds": 0.76,
+              "category": "medium"
+            }
+          ],
+          "debug_log": [
+            "pause #1: 0.000s - 1.590s (1.590s, long)",
+            "pause #2: 10.480s - 11.240s (0.760s, medium)"
+          ],
+          "timeline": "|||||||||||\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7||||||\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7"
+        },
+        "filler_words": {
+          "total_count": 0,
+          "per_word": {},
+          "per_phrase": {},
+          "ratio": 0.0,
+          "per_100_words": 0.0,
+          "score": 100.0
+        },
+        "clarity_intelligibility": {
+          "score": 83.5,
+          "based_on": {
+            "accuracy": 82.0,
+            "confidence_raw": 0.87,
+            "confidence_score": 87.0
+          }
+        },
+        "transcript_quality": {
+          "transcript": "Available is an EM storage location and a program that a whole data such as number I text or collateral value and can I change running program execution.",
+          "character_count": 153,
+          "word_count": 28,
+          "sentence_count": 1,
+          "average_words_per_sentence": 28.0,
+          "lexical_diversity": 0.8571,
+          "score": 70.71,
+          "minimum_answer_length_met": true
+        },
+        "interview_target_scores": {
+          "confidence": 86.11,
+          "communication": 86.48,
+          "eye_contact": null,
+          "fluency": 90.0,
+          "answer_quality": 82.43,
+          "overall_audio_readiness": 86.46,
+          "notes": {
+            "eye_contact": "Not available in speech.py. This should come from the video-analysis module.",
+            "answer_quality": "This is a lightweight proxy based on transcript quality and not true semantic relevance to the interview question."
+          }
+        },
+        "utterances": [
+          {
+            "text": "Available is an EM storage location and a program that a whole data such as number I text or collateral value and can I change running program execution.",
+            "lexical": "available is an EM storage location and a program that a whole data such as number i text or collateral value and can i change running program execution",
+            "confidence_raw": 0.87108994,
+            "confidence_score": 87.11,
+            "offset_seconds": 1.54,
+            "duration_seconds": 12.07,
+            "accuracy": 82.0,
+            "fluency": 95.0,
+            "prosody": 78.7,
+            "completeness": 100.0,
+            "words": [
+              {
+                "word": "available",
+                "offset": 15400000,
+                "duration": 11300000,
+                "offset_seconds": 1.54,
+                "duration_seconds": 1.13
+              },
+              {
+                "word": "is",
+                "offset": 26800000,
+                "duration": 2500000,
+                "offset_seconds": 2.68,
+                "duration_seconds": 0.25
+              },
+              {
+                "word": "an",
+                "offset": 29400000,
+                "duration": 1500000,
+                "offset_seconds": 2.94,
+                "duration_seconds": 0.15
+              },
+              {
+                "word": "EM",
+                "offset": 31000000,
+                "duration": 6700000,
+                "offset_seconds": 3.1,
+                "duration_seconds": 0.67
+              },
+              {
+                "word": "storage",
+                "offset": 38000000,
+                "duration": 5500000,
+                "offset_seconds": 3.8,
+                "duration_seconds": 0.55
+              },
+              {
+                "word": "location",
+                "offset": 43600000,
+                "duration": 7500000,
+                "offset_seconds": 4.36,
+                "duration_seconds": 0.75
+              },
+              {
+                "word": "and",
+                "offset": 51200000,
+                "duration": 1600000,
+                "offset_seconds": 5.12,
+                "duration_seconds": 0.16
+              },
+              {
+                "word": "a",
+                "offset": 52900000,
+                "duration": 600000,
+                "offset_seconds": 5.29,
+                "duration_seconds": 0.06
+              },
+              {
+                "word": "program",
+                "offset": 53600000,
+                "duration": 6100000,
+                "offset_seconds": 5.36,
+                "duration_seconds": 0.61
+              },
+              {
+                "word": "that",
+                "offset": 59800000,
+                "duration": 2700000,
+                "offset_seconds": 5.98,
+                "duration_seconds": 0.27
+              },
+              {
+                "word": "a",
+                "offset": 62600000,
+                "duration": 500000,
+                "offset_seconds": 6.26,
+                "duration_seconds": 0.05
+              },
+              {
+                "word": "whole",
+                "offset": 63200000,
+                "duration": 2700000,
+                "offset_seconds": 6.32,
+                "duration_seconds": 0.27
+              },
+              {
+                "word": "data",
+                "offset": 66000000,
+                "duration": 4500000,
+                "offset_seconds": 6.6,
+                "duration_seconds": 0.45
+              },
+              {
+                "word": "such",
+                "offset": 70600000,
+                "duration": 6700000,
+                "offset_seconds": 7.06,
+                "duration_seconds": 0.67
+              },
+              {
+                "word": "as",
+                "offset": 77400000,
+                "duration": 3700000,
+                "offset_seconds": 7.74,
+                "duration_seconds": 0.37
+              },
+              {
+                "word": "number",
+                "offset": 81200000,
+                "duration": 7100000,
+                "offset_seconds": 8.12,
+                "duration_seconds": 0.71
+              },
+              {
+                "word": "i",
+                "offset": 88400000,
+                "duration": 900000,
+                "offset_seconds": 8.84,
+                "duration_seconds": 0.09
+              },
+              {
+                "word": "text",
+                "offset": 89400000,
+                "duration": 4700000,
+                "offset_seconds": 8.94,
+                "duration_seconds": 0.47
+              },
+              {
+                "word": "or",
+                "offset": 94200000,
+                "duration": 2700000,
+                "offset_seconds": 9.42,
+                "duration_seconds": 0.27
+              },
+              {
+                "word": "collateral",
+                "offset": 97000000,
+                "duration": 4200000,
+                "offset_seconds": 9.7,
+                "duration_seconds": 0.42
+              },
+              {
+                "word": "value",
+                "offset": 101300000,
+                "duration": 4700000,
+                "offset_seconds": 10.13,
+                "duration_seconds": 0.47
+              },
+              {
+                "word": "and",
+                "offset": 112200000,
+                "duration": 3300000,
+                "offset_seconds": 11.22,
+                "duration_seconds": 0.33
+              },
+              {
+                "word": "can",
+                "offset": 115600000,
+                "duration": 1700000,
+                "offset_seconds": 11.56,
+                "duration_seconds": 0.17
+              },
+              {
+                "word": "i",
+                "offset": 117400000,
+                "duration": 500000,
+                "offset_seconds": 11.74,
+                "duration_seconds": 0.05
+              },
+              {
+                "word": "change",
+                "offset": 118000000,
+                "duration": 4300000,
+                "offset_seconds": 11.8,
+                "duration_seconds": 0.43
+              },
+              {
+                "word": "running",
+                "offset": 122400000,
+                "duration": 2900000,
+                "offset_seconds": 12.24,
+                "duration_seconds": 0.29
+              },
+              {
+                "word": "program",
+                "offset": 125400000,
+                "duration": 3500000,
+                "offset_seconds": 12.54,
+                "duration_seconds": 0.35
+              },
+              {
+                "word": "execution",
+                "offset": 129000000,
+                "duration": 7100000,
+                "offset_seconds": 12.9,
+                "duration_seconds": 0.71
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "All derived scoring outputs are normalized to a 0-100 scale except confidence_raw, which remains the original Azure confidence value (0-1).",
+          "Speech rate, pause analysis, filler-word counts, and transcript-quality metrics are derived from Azure transcription output.",
+          "Pronunciation, fluency, prosody, and completeness come directly from Azure Pronunciation Assessment.",
+          "This file prepares audio-side scoring for a final mock interview report, but eye contact still needs to be supplied by the video-analysis module."
+        ]
+      },
+      "videoScore": {
+        "eye_contact": 92,
+        "head_movement": 96,
+        "facial_expression": "Moderately engaged",
+        "face_presence": 100,
+        "smile_score": "Very subtle smile"
+      },
+      "questionEvaluation": {
+        "score": 60,
+        "raw_response": "60",
+        "feedback": "",
+        "suggestion": ""
+      },
+      "questionScoreRaw": 60,
+      "questionScore": 60,
+      "status": "answered",
+      "analysisStatus": "completed",
+      "analysisError": null,
+      "isLastQuestion": true
+    }
+  ],
+  "finalVideo": "uploads\\interview\\c75ea6c7-8a82-40dd-b959-e655b5f8a76e\\final_interview.mp4",
+  "completedQuestions": 2,
+  "processingComplete": true,
+  "processingStartedAt": "2026-05-26T22:20:55.122231Z",
+  "processingCompletedAt": "2026-05-26T22:20:57.864481Z",
+  "analysis": {
+    "status": "completed",
+    "analysisScope": "full_interview",
+    "error": null,
+    "analysisStartedAt": "2026-05-26T22:20:57.867692Z",
+    "perQuestion": [
+      {
+        "questionIndex": 1,
+        "audioPath": "uploads\\interview\\c75ea6c7-8a82-40dd-b959-e655b5f8a76e\\audio\\question_1.wav",
+        "audioScore": {
+          "azure_scores": {
+            "accuracy": 78.0,
+            "fluency": 96.0,
+            "prosody": 75.7,
+            "completeness": 100.0,
+            "confidence_raw": 0.93,
+            "confidence_score": 93.0,
+            "clarity_intelligibility": 82.5,
+            "final_score": 86.56
+          },
+          "speech_rate": {
+            "word_count": 25,
+            "total_words": 25,
+            "speech_duration_seconds": 11.81,
+            "duration_seconds": 11.81,
+            "words_per_minute": 127.01,
+            "label": "normal",
+            "rate_label": "Normal",
+            "score": 100.0
+          },
+          "pause_analysis": {
+            "count": 1,
+            "long_pause_threshold_seconds": 1.5,
+            "long_pause_count": 0,
+            "average_pause_seconds": 0.93,
+            "max_pause_seconds": 0.93,
+            "total_silence_seconds": 0.93,
+            "pause_ratio": 0.0787,
+            "categories": {
+              "short": 0,
+              "medium": 1,
+              "long": 0
+            },
+            "score": 90.0,
+            "pauses": [
+              {
+                "start_seconds": 0.0,
+                "end_seconds": 0.93,
+                "duration_seconds": 0.93,
+                "category": "medium"
+              }
+            ],
+            "debug_log": [
+              "pause #1: 0.000s - 0.930s (0.930s, medium)"
+            ],
+            "timeline": "|||||||\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7"
+          },
+          "filler_words": {
+            "total_count": 1,
+            "per_word": {
+              "uh": 1
+            },
+            "per_phrase": {},
+            "ratio": 0.04,
+            "per_100_words": 4.0,
+            "score": 80.0
+          },
+          "clarity_intelligibility": {
+            "score": 82.5,
+            "based_on": {
+              "accuracy": 78.0,
+              "confidence_raw": 0.93,
+              "confidence_score": 93.0
+            }
+          },
+          "transcript_quality": {
+            "transcript": "UH by Stone is a programming language used to create website developer, artificial intelligence system, automated task and work with data analysis and machine learning.",
+            "character_count": 168,
+            "word_count": 25,
+            "sentence_count": 1,
+            "average_words_per_sentence": 25.0,
+            "lexical_diversity": 0.96,
+            "score": 70.05,
+            "minimum_answer_length_met": true
+          },
+          "interview_target_scores": {
+            "confidence": 86.21,
+            "communication": 86.26,
+            "eye_contact": null,
+            "fluency": 95.5,
+            "answer_quality": 79.03,
+            "overall_audio_readiness": 87.11,
+            "notes": {
+              "eye_contact": "Not available in speech.py. This should come from the video-analysis module.",
+              "answer_quality": "This is a lightweight proxy based on transcript quality and not true semantic relevance to the interview question."
+            }
+          },
+          "utterances": [
+            {
+              "text": "UH by Stone is a programming language used to create website developer, artificial intelligence system, automated task and work with data analysis and machine learning.",
+              "lexical": "uh by stone is a programming language used to create website developer artificial intelligence system automated task and work with data analysis and machine learning",
+              "confidence_raw": 0.92651457,
+              "confidence_score": 92.65,
+              "offset_seconds": 0.86,
+              "duration_seconds": 11.81,
+              "accuracy": 78.0,
+              "fluency": 96.0,
+              "prosody": 75.7,
+              "completeness": 100.0,
+              "words": [
+                {
+                  "word": "uh",
+                  "offset": 8600000,
+                  "duration": 4500000,
+                  "offset_seconds": 0.86,
+                  "duration_seconds": 0.45
+                },
+                {
+                  "word": "by",
+                  "offset": 13200000,
+                  "duration": 3300000,
+                  "offset_seconds": 1.32,
+                  "duration_seconds": 0.33
+                },
+                {
+                  "word": "stone",
+                  "offset": 16600000,
+                  "duration": 3100000,
+                  "offset_seconds": 1.66,
+                  "duration_seconds": 0.31
+                },
+                {
+                  "word": "is",
+                  "offset": 19800000,
+                  "duration": 1300000,
+                  "offset_seconds": 1.98,
+                  "duration_seconds": 0.13
+                },
+                {
+                  "word": "a",
+                  "offset": 21200000,
+                  "duration": 500000,
+                  "offset_seconds": 2.12,
+                  "duration_seconds": 0.05
+                },
+                {
+                  "word": "programming",
+                  "offset": 21800000,
+                  "duration": 6100000,
+                  "offset_seconds": 2.18,
+                  "duration_seconds": 0.61
+                },
+                {
+                  "word": "language",
+                  "offset": 28000000,
+                  "duration": 5800000,
+                  "offset_seconds": 2.8,
+                  "duration_seconds": 0.58
+                },
+                {
+                  "word": "used",
+                  "offset": 33900000,
+                  "duration": 3600000,
+                  "offset_seconds": 3.39,
+                  "duration_seconds": 0.36
+                },
+                {
+                  "word": "to",
+                  "offset": 37600000,
+                  "duration": 2900000,
+                  "offset_seconds": 3.76,
+                  "duration_seconds": 0.29
+                },
+                {
+                  "word": "create",
+                  "offset": 40600000,
+                  "duration": 3900000,
+                  "offset_seconds": 4.06,
+                  "duration_seconds": 0.39
+                },
+                {
+                  "word": "website",
+                  "offset": 44600000,
+                  "duration": 9900000,
+                  "offset_seconds": 4.46,
+                  "duration_seconds": 0.99
+                },
+                {
+                  "word": "developer",
+                  "offset": 56000000,
+                  "duration": 6700000,
+                  "offset_seconds": 5.6,
+                  "duration_seconds": 0.67
+                },
+                {
+                  "word": "artificial",
+                  "offset": 62800000,
+                  "duration": 4500000,
+                  "offset_seconds": 6.28,
+                  "duration_seconds": 0.45
+                },
+                {
+                  "word": "intelligence",
+                  "offset": 67400000,
+                  "duration": 5500000,
+                  "offset_seconds": 6.74,
+                  "duration_seconds": 0.55
+                },
+                {
+                  "word": "system",
+                  "offset": 73000000,
+                  "duration": 6900000,
+                  "offset_seconds": 7.3,
+                  "duration_seconds": 0.69
+                },
+                {
+                  "word": "automated",
+                  "offset": 82700000,
+                  "duration": 6500000,
+                  "offset_seconds": 8.27,
+                  "duration_seconds": 0.65
+                },
+                {
+                  "word": "task",
+                  "offset": 89300000,
+                  "duration": 5000000,
+                  "offset_seconds": 8.93,
+                  "duration_seconds": 0.5
+                },
+                {
+                  "word": "and",
+                  "offset": 94600000,
+                  "duration": 3800000,
+                  "offset_seconds": 9.46,
+                  "duration_seconds": 0.38
+                },
+                {
+                  "word": "work",
+                  "offset": 98500000,
+                  "duration": 4200000,
+                  "offset_seconds": 9.85,
+                  "duration_seconds": 0.42
+                },
+                {
+                  "word": "with",
+                  "offset": 102800000,
+                  "duration": 5700000,
+                  "offset_seconds": 10.28,
+                  "duration_seconds": 0.57
+                },
+                {
+                  "word": "data",
+                  "offset": 108600000,
+                  "duration": 2700000,
+                  "offset_seconds": 10.86,
+                  "duration_seconds": 0.27
+                },
+                {
+                  "word": "analysis",
+                  "offset": 111400000,
+                  "duration": 4500000,
+                  "offset_seconds": 11.14,
+                  "duration_seconds": 0.45
+                },
+                {
+                  "word": "and",
+                  "offset": 116000000,
+                  "duration": 2000000,
+                  "offset_seconds": 11.6,
+                  "duration_seconds": 0.2
+                },
+                {
+                  "word": "machine",
+                  "offset": 118100000,
+                  "duration": 3400000,
+                  "offset_seconds": 11.81,
+                  "duration_seconds": 0.34
+                },
+                {
+                  "word": "learning",
+                  "offset": 121600000,
+                  "duration": 5100000,
+                  "offset_seconds": 12.16,
+                  "duration_seconds": 0.51
+                }
+              ]
+            }
+          ],
+          "notes": [
+            "All derived scoring outputs are normalized to a 0-100 scale except confidence_raw, which remains the original Azure confidence value (0-1).",
+            "Speech rate, pause analysis, filler-word counts, and transcript-quality metrics are derived from Azure transcription output.",
+            "Pronunciation, fluency, prosody, and completeness come directly from Azure Pronunciation Assessment.",
+            "This file prepares audio-side scoring for a final mock interview report, but eye contact still needs to be supplied by the video-analysis module."
+          ]
+        },
+        "videoScore": {
+          "eye_contact": 92,
+          "head_movement": 96,
+          "facial_expression": "Moderately engaged",
+          "face_presence": 100,
+          "smile_score": "Very subtle smile"
+        },
+        "questionScore": 40,
+        "transcriptProvider": "azure"
+      },
+      {
+        "questionIndex": 2,
+        "audioPath": "uploads\\interview\\c75ea6c7-8a82-40dd-b959-e655b5f8a76e\\audio\\question_2.wav",
+        "audioScore": {
+          "azure_scores": {
+            "accuracy": 82.0,
+            "fluency": 95.0,
+            "prosody": 78.7,
+            "completeness": 100.0,
+            "confidence_raw": 0.87,
+            "confidence_score": 87.0,
+            "clarity_intelligibility": 83.5,
+            "final_score": 88.01
+          },
+          "speech_rate": {
+            "word_count": 28,
+            "total_words": 28,
+            "speech_duration_seconds": 12.07,
+            "duration_seconds": 12.07,
+            "words_per_minute": 139.19,
+            "label": "normal",
+            "rate_label": "Normal",
+            "score": 100.0
+          },
+          "pause_analysis": {
+            "count": 2,
+            "long_pause_threshold_seconds": 1.5,
+            "long_pause_count": 1,
+            "average_pause_seconds": 1.175,
+            "max_pause_seconds": 1.59,
+            "total_silence_seconds": 2.35,
+            "pause_ratio": 0.1947,
+            "categories": {
+              "short": 0,
+              "medium": 1,
+              "long": 1
+            },
+            "score": 70.0,
+            "pauses": [
+              {
+                "start_seconds": 0.0,
+                "end_seconds": 1.59,
+                "duration_seconds": 1.59,
+                "category": "long"
+              },
+              {
+                "start_seconds": 10.48,
+                "end_seconds": 11.24,
+                "duration_seconds": 0.76,
+                "category": "medium"
+              }
+            ],
+            "debug_log": [
+              "pause #1: 0.000s - 1.590s (1.590s, long)",
+              "pause #2: 10.480s - 11.240s (0.760s, medium)"
+            ],
+            "timeline": "|||||||||||\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7||||||\u00b7\u00b7\u00b7\u00b7\u00b7\u00b7"
+          },
+          "filler_words": {
+            "total_count": 0,
+            "per_word": {},
+            "per_phrase": {},
+            "ratio": 0.0,
+            "per_100_words": 0.0,
+            "score": 100.0
+          },
+          "clarity_intelligibility": {
+            "score": 83.5,
+            "based_on": {
+              "accuracy": 82.0,
+              "confidence_raw": 0.87,
+              "confidence_score": 87.0
+            }
+          },
+          "transcript_quality": {
+            "transcript": "Available is an EM storage location and a program that a whole data such as number I text or collateral value and can I change running program execution.",
+            "character_count": 153,
+            "word_count": 28,
+            "sentence_count": 1,
+            "average_words_per_sentence": 28.0,
+            "lexical_diversity": 0.8571,
+            "score": 70.71,
+            "minimum_answer_length_met": true
+          },
+          "interview_target_scores": {
+            "confidence": 86.11,
+            "communication": 86.48,
+            "eye_contact": null,
+            "fluency": 90.0,
+            "answer_quality": 82.43,
+            "overall_audio_readiness": 86.46,
+            "notes": {
+              "eye_contact": "Not available in speech.py. This should come from the video-analysis module.",
+              "answer_quality": "This is a lightweight proxy based on transcript quality and not true semantic relevance to the interview question."
+            }
+          },
+          "utterances": [
+            {
+              "text": "Available is an EM storage location and a program that a whole data such as number I text or collateral value and can I change running program execution.",
+              "lexical": "available is an EM storage location and a program that a whole data such as number i text or collateral value and can i change running program execution",
+              "confidence_raw": 0.87108994,
+              "confidence_score": 87.11,
+              "offset_seconds": 1.54,
+              "duration_seconds": 12.07,
+              "accuracy": 82.0,
+              "fluency": 95.0,
+              "prosody": 78.7,
+              "completeness": 100.0,
+              "words": [
+                {
+                  "word": "available",
+                  "offset": 15400000,
+                  "duration": 11300000,
+                  "offset_seconds": 1.54,
+                  "duration_seconds": 1.13
+                },
+                {
+                  "word": "is",
+                  "offset": 26800000,
+                  "duration": 2500000,
+                  "offset_seconds": 2.68,
+                  "duration_seconds": 0.25
+                },
+                {
+                  "word": "an",
+                  "offset": 29400000,
+                  "duration": 1500000,
+                  "offset_seconds": 2.94,
+                  "duration_seconds": 0.15
+                },
+                {
+                  "word": "EM",
+                  "offset": 31000000,
+                  "duration": 6700000,
+                  "offset_seconds": 3.1,
+                  "duration_seconds": 0.67
+                },
+                {
+                  "word": "storage",
+                  "offset": 38000000,
+                  "duration": 5500000,
+                  "offset_seconds": 3.8,
+                  "duration_seconds": 0.55
+                },
+                {
+                  "word": "location",
+                  "offset": 43600000,
+                  "duration": 7500000,
+                  "offset_seconds": 4.36,
+                  "duration_seconds": 0.75
+                },
+                {
+                  "word": "and",
+                  "offset": 51200000,
+                  "duration": 1600000,
+                  "offset_seconds": 5.12,
+                  "duration_seconds": 0.16
+                },
+                {
+                  "word": "a",
+                  "offset": 52900000,
+                  "duration": 600000,
+                  "offset_seconds": 5.29,
+                  "duration_seconds": 0.06
+                },
+                {
+                  "word": "program",
+                  "offset": 53600000,
+                  "duration": 6100000,
+                  "offset_seconds": 5.36,
+                  "duration_seconds": 0.61
+                },
+                {
+                  "word": "that",
+                  "offset": 59800000,
+                  "duration": 2700000,
+                  "offset_seconds": 5.98,
+                  "duration_seconds": 0.27
+                },
+                {
+                  "word": "a",
+                  "offset": 62600000,
+                  "duration": 500000,
+                  "offset_seconds": 6.26,
+                  "duration_seconds": 0.05
+                },
+                {
+                  "word": "whole",
+                  "offset": 63200000,
+                  "duration": 2700000,
+                  "offset_seconds": 6.32,
+                  "duration_seconds": 0.27
+                },
+                {
+                  "word": "data",
+                  "offset": 66000000,
+                  "duration": 4500000,
+                  "offset_seconds": 6.6,
+                  "duration_seconds": 0.45
+                },
+                {
+                  "word": "such",
+                  "offset": 70600000,
+                  "duration": 6700000,
+                  "offset_seconds": 7.06,
+                  "duration_seconds": 0.67
+                },
+                {
+                  "word": "as",
+                  "offset": 77400000,
+                  "duration": 3700000,
+                  "offset_seconds": 7.74,
+                  "duration_seconds": 0.37
+                },
+                {
+                  "word": "number",
+                  "offset": 81200000,
+                  "duration": 7100000,
+                  "offset_seconds": 8.12,
+                  "duration_seconds": 0.71
+                },
+                {
+                  "word": "i",
+                  "offset": 88400000,
+                  "duration": 900000,
+                  "offset_seconds": 8.84,
+                  "duration_seconds": 0.09
+                },
+                {
+                  "word": "text",
+                  "offset": 89400000,
+                  "duration": 4700000,
+                  "offset_seconds": 8.94,
+                  "duration_seconds": 0.47
+                },
+                {
+                  "word": "or",
+                  "offset": 94200000,
+                  "duration": 2700000,
+                  "offset_seconds": 9.42,
+                  "duration_seconds": 0.27
+                },
+                {
+                  "word": "collateral",
+                  "offset": 97000000,
+                  "duration": 4200000,
+                  "offset_seconds": 9.7,
+                  "duration_seconds": 0.42
+                },
+                {
+                  "word": "value",
+                  "offset": 101300000,
+                  "duration": 4700000,
+                  "offset_seconds": 10.13,
+                  "duration_seconds": 0.47
+                },
+                {
+                  "word": "and",
+                  "offset": 112200000,
+                  "duration": 3300000,
+                  "offset_seconds": 11.22,
+                  "duration_seconds": 0.33
+                },
+                {
+                  "word": "can",
+                  "offset": 115600000,
+                  "duration": 1700000,
+                  "offset_seconds": 11.56,
+                  "duration_seconds": 0.17
+                },
+                {
+                  "word": "i",
+                  "offset": 117400000,
+                  "duration": 500000,
+                  "offset_seconds": 11.74,
+                  "duration_seconds": 0.05
+                },
+                {
+                  "word": "change",
+                  "offset": 118000000,
+                  "duration": 4300000,
+                  "offset_seconds": 11.8,
+                  "duration_seconds": 0.43
+                },
+                {
+                  "word": "running",
+                  "offset": 122400000,
+                  "duration": 2900000,
+                  "offset_seconds": 12.24,
+                  "duration_seconds": 0.29
+                },
+                {
+                  "word": "program",
+                  "offset": 125400000,
+                  "duration": 3500000,
+                  "offset_seconds": 12.54,
+                  "duration_seconds": 0.35
+                },
+                {
+                  "word": "execution",
+                  "offset": 129000000,
+                  "duration": 7100000,
+                  "offset_seconds": 12.9,
+                  "duration_seconds": 0.71
+                }
+              ]
+            }
+          ],
+          "notes": [
+            "All derived scoring outputs are normalized to a 0-100 scale except confidence_raw, which remains the original Azure confidence value (0-1).",
+            "Speech rate, pause analysis, filler-word counts, and transcript-quality metrics are derived from Azure transcription output.",
+            "Pronunciation, fluency, prosody, and completeness come directly from Azure Pronunciation Assessment.",
+            "This file prepares audio-side scoring for a final mock interview report, but eye contact still needs to be supplied by the video-analysis module."
+          ]
+        },
+        "videoScore": {
+          "eye_contact": 92,
+          "head_movement": 96,
+          "facial_expression": "Moderately engaged",
+          "face_presence": 100,
+          "smile_score": "Very subtle smile"
+        },
+        "questionScore": 60,
+        "transcriptProvider": "azure"
+      }
+    ],
+    "audio_score": {
+      "azure_scores": {
+        "accuracy": 80.0,
+        "fluency": 95.5,
+        "prosody": 77.2,
+        "completeness": 100.0,
+        "confidence_raw": 0.9,
+        "confidence_score": 90.0,
+        "clarity_intelligibility": 83.0,
+        "final_score": 87.285
+      },
+      "speech_rate": {
+        "word_count": 53,
+        "total_words": 53,
+        "speech_duration_seconds": 23.88,
+        "duration_seconds": 23.88,
+        "words_per_minute": 133.17,
+        "label": "normal",
+        "rate_label": "Normal",
+        "score": 100.0
+      },
+      "pause_analysis": {
+        "count": 3,
+        "long_pause_count": 1,
+        "average_pause_seconds": 1.052,
+        "max_pause_seconds": 1.59,
+        "score": 80.0,
+        "estimated_silence_seconds": 0.0
+      },
+      "filler_words": {
+        "total_count": 1,
+        "per_100_words": 1.89,
+        "score": 90.0
+      },
+      "clarity_intelligibility": {
+        "score": 83.0
+      },
+      "transcript_quality": {
+        "word_count": 53,
+        "sentence_count": 2,
+        "average_words_per_sentence": 26.5,
+        "lexical_diversity": 0.90855,
+        "score": 70.38
+      },
+      "source": "aggregated_per_interview"
+    },
+    "video_score": {
+      "eye_contact": 92.0,
+      "head_movement": 96.0,
+      "face_presence": 100.0,
+      "facial_expression": "Moderately engaged",
+      "smile_score": "Very subtle smile"
+    },
+    "scores": {
+      "finalVideoScore": 94.8,
+      "finalVoiceScore": 86.975,
+      "answerQualityScore": 50.0,
+      "finalInterviewScore": 74.14125
+    },
+    "candidate_position": {
+      "best_fit_role": "Junior Developer",
+      "best_fit_level": "Entry",
+      "domain_confidence": 78.5,
+      "strengths": [
+        "Good fluency",
+        "Strong eye contact",
+        "Engaged facial expressions"
+      ],
+      "gaps": [
+        "Inaccurate technical explanations",
+        "Basic understanding of programming concepts"
+      ],
+      "recommended_next_step": "Suggest further study or training in programming fundamentals, especially in Python and general programming concepts.",
+      "reasoning_summary": "The candidate shows strong communication skills and engagement, indicating potential for client-facing or collaborative tech roles. However, their technical answers reveal gaps in understanding and clarity, indicating a need for further training in programming basics. The strong presence and engagement suggest a readiness for entry-level roles, but technical knowledge needs development to advance beyond fundamental tasks."
+    },
+    "language": "en",
+    "speechLocale": "en-US",
+    "analysisCompletedAt": "2026-05-26T22:22:18.776092Z"
+  },
+  "durations": {
+    "question_1": 12.88,
+    "question_2": 13.744,
+    "final_interview": 26.708220858895704
+  },
+  "language": "en",
+  "speechLocale": "en-US",
+  "questionSource": "company",
+  "companyInterviewSessionId": 13,
+  "scores": {
+    "finalVideoScore": 94.8,
+    "finalVoiceScore": 86.975,
+    "answerQualityScore": 50.0,
+    "finalInterviewScore": 74.14125
+  },
+  "completedAt": "2026-05-26T22:22:18.776092Z"
+}

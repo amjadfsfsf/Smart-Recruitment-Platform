@@ -1,0 +1,47 @@
+{
+  "sessionId": "c224f4b1-18c3-4fe8-8af3-90690d5f09f1",
+  "createdAt": "2026-05-26T22:06:20.154960Z",
+  "status": "in_progress",
+  "phase": "playing_question_audio",
+  "totalQuestions": 2,
+  "questions": [
+    {
+      "index": 1,
+      "questionText": "What is Python used for?",
+      "audioPath": "uploads\\interview\\c224f4b1-18c3-4fe8-8af3-90690d5f09f1\\questions\\question_1.mp3",
+      "audioUrl": "/uploads/interview/c224f4b1-18c3-4fe8-8af3-90690d5f09f1/questions/question_1.mp3",
+      "source": "company",
+      "questionId": 17,
+      "category": "technical",
+      "difficulty": "easy",
+      "expectedAnswerKeywords": [],
+      "required": true
+    },
+    {
+      "index": 2,
+      "questionText": "What is a variable in programming?",
+      "audioPath": "uploads\\interview\\c224f4b1-18c3-4fe8-8af3-90690d5f09f1\\questions\\question_2.mp3",
+      "audioUrl": "/uploads/interview/c224f4b1-18c3-4fe8-8af3-90690d5f09f1/questions/question_2.mp3",
+      "source": "company",
+      "questionId": 18,
+      "category": "behavioral",
+      "difficulty": "easy",
+      "expectedAnswerKeywords": [],
+      "required": true
+    }
+  ],
+  "responses": [],
+  "finalVideo": null,
+  "completedQuestions": 0,
+  "processingComplete": false,
+  "processingStartedAt": null,
+  "processingCompletedAt": null,
+  "analysis": {
+    "status": "not_started"
+  },
+  "durations": {},
+  "language": "en",
+  "speechLocale": "en-US",
+  "questionSource": "company",
+  "companyInterviewSessionId": 11
+}
